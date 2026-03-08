@@ -41,6 +41,31 @@
           "name": "高井俐香　ヒキ"
         }
       ]
+    },{
+      "id": "2025-hmt2024santa",
+      "name": "Happy Magical Tour 2024 サンタ衣装",
+      "items": [
+        {
+          "id": "takai-rika-yori",
+          "member": "takai-rika",
+          "name": "高井俐香　より"
+        },
+        {
+          "id": "takai-rika-chuu",
+          "member": "takai-rika",
+          "name": "高井俐香　チュウ"
+        },
+        {
+          "id": "takai-rika-suwari",
+          "member": "takai-rika",
+          "name": "高井俐香　座り"
+        },
+        {
+          "id": "takai-rika-hiki",
+          "member": "takai-rika",
+          "name": "高井俐香　ヒキ"
+        }
+      ]
     }
    ]
 }
