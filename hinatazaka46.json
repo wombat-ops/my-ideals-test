@@ -9,7 +9,7 @@
     "author": "もなか",
     "imageResourceType": "baseUrl",
     "imageBaseUrl": {
-        "root": "http://localhost:5500/resources/",
+        "root": "https://raw.githubusercontent.com/wombat-ops/my-ideals-test/refs/heads/main/resources/",
         "format": "jpg"
     },
     "members": [
