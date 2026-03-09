@@ -10,7 +10,7 @@
     "imageResourceType": "baseUrl",
     "imageBaseUrl": {
         "root": "https://raw.githubusercontent.com/wombat-ops/my-ideals-test/refs/heads/main/resources/",
-        "format": "jpg"
+        "format": "webp"
     },
     "members": [
     { "id": "takai-rika", "name": "高井俐香" }
@@ -42,28 +42,28 @@
         }
       ]
     },{
-      "id": "2025-hmt2024santa",
-      "name": "Happy Magical Tour 2024 サンタ衣装",
+      "id": "2025-pkpk",
+      "name": "五期生のぽかぽか写真館",
       "items": [
         {
           "id": "takai-rika-yori",
           "member": "takai-rika",
-          "name": "高井俐香　より"
+          "name": "高井俐香 より"
         },
         {
           "id": "takai-rika-chuu",
           "member": "takai-rika",
-          "name": "高井俐香　チュウ"
-        },
-        {
-          "id": "takai-rika-suwari",
-          "member": "takai-rika",
-          "name": "高井俐香　座り"
+          "name": "高井俐香 チュウ"
         },
         {
           "id": "takai-rika-hiki",
           "member": "takai-rika",
-          "name": "高井俐香　ヒキ"
+          "name": "高井俐香 ヒキ"
+        },
+        {
+          "id": "takai-rika-suwari",
+          "member": "takai-rika",
+          "name": "高井俐香 スワリ"
         }
       ]
     }
