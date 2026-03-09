@@ -1,0 +1,71 @@
+{
+    "magic": "my-ideals-template",
+    "version": 1,
+    "revision": 10,
+    "id": "hinatazaka46",
+    "name": "日向坂46 生写真",
+    "description": "日向坂46 生写真",
+    "link": "https://github.com/monaka-ikonoi/my-ideals-template-ikonoijoy",
+    "author": "もなか",
+    "imageResourceType": "baseUrl",
+    "imageBaseUrl": {
+        "root": "https://raw.githubusercontent.com/wombat-ops/my-ideals-test/refs/heads/main/resources/",
+        "format": "webp"
+    },
+    "members": [
+    { "id": "takai-rika", "name": "高井俐香" }
+  ],
+   "collections": [
+    {
+      "id": "2025-hmt2024santa",
+      "name": "Happy Magical Tour 2024 サンタ衣装",
+      "items": [
+        {
+          "id": "takai-rika-yori",
+          "member": "takai-rika",
+          "name": "高井俐香　より"
+        },
+        {
+          "id": "takai-rika-chuu",
+          "member": "takai-rika",
+          "name": "高井俐香　チュウ"
+        },
+        {
+          "id": "takai-rika-hiki",
+          "member": "takai-rika",
+          "name": "高井俐香　ヒキ"
+        },
+        {
+          "id": "takai-rika-suwari",
+          "member": "takai-rika",
+          "name": "高井俐香　座り"
+        }
+      ]
+    },{
+      "id": "2025-pkpk",
+      "name": "五期生のぽかぽか写真館",
+      "items": [
+        {
+          "id": "takai-rika-yori",
+          "member": "takai-rika",
+          "name": "高井俐香 より"
+        },
+        {
+          "id": "takai-rika-chuu",
+          "member": "takai-rika",
+          "name": "高井俐香 チュウ"
+        },
+        {
+          "id": "takai-rika-hiki",
+          "member": "takai-rika",
+          "name": "高井俐香 ヒキ"
+        },
+        {
+          "id": "takai-rika-suwari",
+          "member": "takai-rika",
+          "name": "高井俐香 座り"
+        }
+      ]
+    }
+   ]
+}
