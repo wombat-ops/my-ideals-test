@@ -62,7 +62,7 @@ def update_task():
                 # 只有文件存在时，才生成 JSON 条目并移动文件
                 if os.path.exists(old_path):
                     # 构造 ID：为了方便管理，建议保留系列前缀，或根据你之前的要求只留 ID
-                    item_id = f"{series_id}/{m_en}-{p_en}" 
+                    item_id = f"{m_en}-{p_en}" 
                     
                     new_items.append({
                         "id": item_id,
