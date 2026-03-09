@@ -5,8 +5,6 @@
   "id": "hinatazaka46",
   "name": "日向坂46 生写真",
   "description": "日向坂46 生写真",
-  "link": "https://github.com/monaka-ikonoi/my-ideals-template-ikonoijoy",
-  "author": "もなか",
   "imageResourceType": "baseUrl",
   "imageBaseUrl": {
     "root": "https://raw.githubusercontent.com/wombat-ops/my-ideals-test/refs/heads/main/resources/",
