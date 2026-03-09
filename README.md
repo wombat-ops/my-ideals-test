@@ -1,0 +1,2 @@
+- 🔗 **代码(Original Repository):** [monaka-ikonoi/my-ideals](https://github.com/monaka-ikonoi/my-ideals)
+- 👤 **作者 (Author):** [@monaka-ikonoi](https://github.com/monaka-ikonoi)
