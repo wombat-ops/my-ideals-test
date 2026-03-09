@@ -31,14 +31,14 @@
           "name": "高井俐香　チュウ"
         },
         {
-          "id": "takai-rika-suwari",
-          "member": "takai-rika",
-          "name": "高井俐香　座り"
-        },
-        {
           "id": "takai-rika-hiki",
           "member": "takai-rika",
           "name": "高井俐香　ヒキ"
+        },
+        {
+          "id": "takai-rika-suwari",
+          "member": "takai-rika",
+          "name": "高井俐香　座り"
         }
       ]
     },{
@@ -63,7 +63,7 @@
         {
           "id": "takai-rika-suwari",
           "member": "takai-rika",
-          "name": "高井俐香 スワリ"
+          "name": "高井俐香 座り"
         }
       ]
     }
