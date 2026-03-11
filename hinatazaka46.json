@@ -202,6 +202,32 @@
       ]
     },
     {
+      "id": "2025-15thjk",
+      "name": "お願いバッハ！ジャケット写真衣装",
+      "items": [
+        {
+          "id": "ota-mitsuki-yori",
+          "member": "ota-mitsuki",
+          "name": "大田美月 より"
+        },
+        {
+          "id": "ota-mitsuki-chuu",
+          "member": "ota-mitsuki",
+          "name": "大田美月 チュウ"
+        },
+        {
+          "id": "ota-mitsuki-hiki",
+          "member": "ota-mitsuki",
+          "name": "大田美月 ヒキ"
+        },
+        {
+          "id": "ota-mitsuki-suwari",
+          "member": "ota-mitsuki",
+          "name": "大田美月 スワリ"
+        }
+      ]
+    },
+    {
       "id": "2025-ykt",
       "name": "2025年 浴衣",
       "items": [
@@ -228,28 +254,204 @@
       ]
     },
     {
-      "id": "2025-15thjk",
-      "name": "お願いバッハ！ジャケット写真衣装",
+      "id": "2025-otrlive",
+      "name": "BRAND NEW LIVE 2025「OVER THE RAINBOW」ライブ衣装",
       "items": [
         {
-          "id": "ota-mitsuki-yori",
-          "member": "ota-mitsuki",
-          "name": "大田美月 より"
+          "id": "takai-rika-yori",
+          "member": "takai-rika",
+          "name": "高井俐香 より"
         },
         {
-          "id": "ota-mitsuki-chuu",
-          "member": "ota-mitsuki",
-          "name": "大田美月 チュウ"
+          "id": "takai-rika-chuu",
+          "member": "takai-rika",
+          "name": "高井俐香 チュウ"
         },
         {
-          "id": "ota-mitsuki-hiki",
-          "member": "ota-mitsuki",
-          "name": "大田美月 ヒキ"
+          "id": "takai-rika-hiki",
+          "member": "takai-rika",
+          "name": "高井俐香 ヒキ"
         },
         {
-          "id": "ota-mitsuki-suwari",
-          "member": "ota-mitsuki",
-          "name": "大田美月 スワリ"
+          "id": "takai-rika-suwari",
+          "member": "takai-rika",
+          "name": "高井俐香 スワリ"
+        }
+      ]
+    },
+    {
+      "id": "2026-vlt",
+      "name": "2026年 バレンタインコーデ",
+      "items": [
+        {
+          "id": "takai-rika-yori",
+          "member": "takai-rika",
+          "name": "高井俐香 より"
+        },
+        {
+          "id": "takai-rika-chuu",
+          "member": "takai-rika",
+          "name": "高井俐香 チュウ"
+        },
+        {
+          "id": "takai-rika-hiki",
+          "member": "takai-rika",
+          "name": "高井俐香 ヒキ"
+        },
+        {
+          "id": "takai-rika-suwari",
+          "member": "takai-rika",
+          "name": "高井俐香 スワリ"
+        }
+      ]
+    },
+    {
+      "id": "2026-16thmv",
+      "name": "クリフハンガー MV衣装",
+      "items": [
+        {
+          "id": "takai-rika-yori",
+          "member": "takai-rika",
+          "name": "高井俐香 より"
+        },
+        {
+          "id": "takai-rika-chuu",
+          "member": "takai-rika",
+          "name": "高井俐香 チュウ"
+        },
+        {
+          "id": "takai-rika-hiki",
+          "member": "takai-rika",
+          "name": "高井俐香 ヒキ"
+        },
+        {
+          "id": "takai-rika-suwari",
+          "member": "takai-rika",
+          "name": "高井俐香 スワリ"
+        },
+        {
+          "id": "takai-rika-yori-b",
+          "member": "takai-rika",
+          "name": "高井俐香 より-B"
+        },
+        {
+          "id": "takai-rika-chuu-b",
+          "member": "takai-rika",
+          "name": "高井俐香 チュウ-B"
+        },
+        {
+          "id": "takai-rika-hiki-b",
+          "member": "takai-rika",
+          "name": "高井俐香 ヒキ-B"
+        },
+        {
+          "id": "takai-rika-suwari-b",
+          "member": "takai-rika",
+          "name": "高井俐香 スワリ-B"
+        }
+      ]
+    },
+    {
+      "id": "2026-16thcd",
+      "name": "16th クリフハンガー CD封入",
+      "items": [
+        {
+          "id": "takai-rika-yori",
+          "member": "takai-rika",
+          "name": "高井俐香 より"
+        },
+        {
+          "id": "takai-rika-chuu",
+          "member": "takai-rika",
+          "name": "高井俐香 チュウ"
+        },
+        {
+          "id": "takai-rika-hiki",
+          "member": "takai-rika",
+          "name": "高井俐香 ヒキ"
+        },
+        {
+          "id": "takai-rika-suwari",
+          "member": "takai-rika",
+          "name": "高井俐香 スワリ"
+        }
+      ]
+    },
+    {
+      "id": "2025-ohirome",
+      "name": "おもてなし会 お披露目衣装",
+      "items": [
+        {
+          "id": "takai-rika-yori",
+          "member": "takai-rika",
+          "name": "高井俐香 より"
+        },
+        {
+          "id": "takai-rika-chuu",
+          "member": "takai-rika",
+          "name": "高井俐香 チュウ"
+        },
+        {
+          "id": "takai-rika-hiki",
+          "member": "takai-rika",
+          "name": "高井俐香 ヒキ"
+        },
+        {
+          "id": "takai-rika-suwari",
+          "member": "takai-rika",
+          "name": "高井俐香 スワリ"
+        }
+      ]
+    },
+    {
+      "id": "2026-cs",
+      "name": "2026 カレンダー スタイリング",
+      "items": [
+        {
+          "id": "takai-rika-yori",
+          "member": "takai-rika",
+          "name": "高井俐香 より"
+        },
+        {
+          "id": "takai-rika-chuu",
+          "member": "takai-rika",
+          "name": "高井俐香 チュウ"
+        },
+        {
+          "id": "takai-rika-hiki",
+          "member": "takai-rika",
+          "name": "高井俐香 ヒキ"
+        },
+        {
+          "id": "takai-rika-suwari",
+          "member": "takai-rika",
+          "name": "高井俐香 スワリ"
+        }
+      ]
+    },
+    {
+      "id": "2025-dbt",
+      "name": "どうぶつ着ぐるみ",
+      "items": [
+        {
+          "id": "takai-rika-yori",
+          "member": "takai-rika",
+          "name": "高井俐香 より"
+        },
+        {
+          "id": "takai-rika-chuu",
+          "member": "takai-rika",
+          "name": "高井俐香 チュウ"
+        },
+        {
+          "id": "takai-rika-hiki",
+          "member": "takai-rika",
+          "name": "高井俐香 ヒキ"
+        },
+        {
+          "id": "takai-rika-suwari",
+          "member": "takai-rika",
+          "name": "高井俐香 スワリ"
         }
       ]
     }
